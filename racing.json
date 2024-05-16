@@ -9,6 +9,16 @@
       "track": "Randwick",
       "start": 2,
       "end": 6
+    },
+    {
+      "track": "Pakenham",
+      "start": 1,
+      "end": 10
+    },
+    {
+      "track": "gosford",
+      "start": 1,
+      "end": 10
     }
   ]
 }
