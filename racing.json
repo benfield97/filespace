@@ -1,19 +1,19 @@
 {
   "races": [
     {
-      "track": "Flemington",
+      "track": "bendigo",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "Scone",
+      "track": "warwick farm",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "Doomben",
+      "track": "ipswich",
       "start": 1,
-      "end": 6
+      "end": 3
     }
   ]
 }
