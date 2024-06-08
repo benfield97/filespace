@@ -1,19 +1,19 @@
 {
   "races": [
     {
-      "track": "bendigo",
+      "track": "flemington",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "warwick farm",
+      "track": "randwick",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "ipswich",
+      "track": "eagle farm",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ]
 }
