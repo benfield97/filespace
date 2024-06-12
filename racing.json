@@ -1,19 +1,19 @@
 {
   "races": [
     {
-      "track": "flemington",
+      "track": "Randwick",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "randwick",
+      "track": "Ballarat",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "eagle farm",
+      "track": "Doomben",
       "start": 1,
-      "end": 6
+      "end": 3
     }
   ]
 }
