@@ -1,19 +1,19 @@
 {
   "races": [
     {
-      "track": "Randwick",
+      "track": "rosehill",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "Ballarat",
+      "track": "sandown",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "Doomben",
+      "track": "eagle farm",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ]
 }
