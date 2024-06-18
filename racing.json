@@ -1,14 +1,19 @@
 {
   "races": [
     {
-      "track": "rosehill",
-      "start": 1,
-      "end": 6
-    },
-    {
       "track": "sandown",
       "start": 1,
-      "end": 6
+      "end": 3
+    },
+    {
+      "track": "canterbury",
+      "start": 1,
+      "end": 3
+    },
+    {
+      "track": "doomben",
+      "start": 1,
+      "end": 3
     }
   ]
 }
