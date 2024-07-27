@@ -1,19 +1,19 @@
 {
   "races": [
     {
-      "track": "sandown",
+      "track": "randwick",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "canterbury",
+      "track": "caulfield",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "ipswich",
+      "track": "doomben",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ]
 }
