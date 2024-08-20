@@ -1,6 +1,4 @@
 {
-
-  
   "tab_races": [
     {
       "track": "rosehill",
@@ -18,7 +16,6 @@
       "end": 6
     }
   ],
-
   
   "sb_races": [
     {
@@ -36,6 +33,5 @@
       "start": 1,
       "end": 6
     }
-  ],
-  
+  ]
 }
