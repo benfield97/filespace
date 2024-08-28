@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "randwick",
+      "track": "canterbury",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "moonee valley",
+      "track": "sandown",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "doomben",
+      "track": "sunshine coast",
       "start": 1,
-      "end": 6
+      "end": 3
     }
   ],
   
