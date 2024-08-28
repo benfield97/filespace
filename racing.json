@@ -19,12 +19,12 @@
   
   "sb_races": [
     {
-      "track": "randwick",
+      "track": "sandown",
       "start": 1,
       "end": 7
     },
     {
-      "track": "mooneee valley",
+      "track": "canterbury",
       "start": 1,
       "end": 7
     }
