@@ -19,12 +19,12 @@
   
   "sb_races": [
     {
-      "track": "sandown",
+      "track": "newcastle",
       "start": 1,
       "end": 7
     },
     {
-      "track": "canterbury",
+      "track": "rockhampton",
       "start": 1,
       "end": 7
     }
