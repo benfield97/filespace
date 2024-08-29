@@ -27,6 +27,12 @@
       "track": "rockhampton",
       "start": 1,
       "end": 7
+    },
+    {
+      "track": "riccarton park synthetic",
+      "start": 1,
+      "end": 7
     }
+  
   ]
 }
