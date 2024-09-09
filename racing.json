@@ -19,14 +19,14 @@
   
   "sb_races": [
     {
-      "track": "caulfield",
+      "track": "bairnsdale",
       "start": 1,
-      "end": 7
+      "end": 9
     },
     {
-      "track": "rosehill",
+      "track": "grafton",
       "start": 1,
-      "end": 7
+      "end": 9
     }
   ]
 }
