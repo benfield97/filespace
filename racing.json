@@ -1,19 +1,9 @@
 {
   "tab_races": [
     {
-      "track": "moonee valley",
+      "track": "randwick kensington",
       "start": 1,
-      "end": 6
-    },
-    {
-      "track": "randwick",
-      "start": 1,
-      "end": 6
-    },
-    {
-      "track": "doomben",
-      "start": 1,
-      "end": 6
+      "end": 3
     }
   ],
   
