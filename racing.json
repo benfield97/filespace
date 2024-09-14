@@ -1,17 +1,17 @@
 {
   "tab_races": [
     {
-      "track": "hawkesbury",
+      "track": "Flemington",
       "start": 1,
       "end": 6
     },
     {
-      "track": "beaudesert",
+      "track": "rosehill",
       "start": 1,
       "end": 6
     },
     {
-      "track": "lismore",
+      "track": "eagle farm",
       "start": 1,
       "end": 6
     }
@@ -19,14 +19,14 @@
   
   "sb_races": [
     {
-      "track": "lismore",
+      "track": "flemington",
       "start": 1,
-      "end": 6
+      "end": 8
     },
     {
-      "track": "hawkesbury",
+      "track": "rosehill",
       "start": 1,
-      "end": 6
+      "end": 7
     }
   ]
 }
