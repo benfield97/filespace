@@ -1,9 +1,9 @@
 {
   "tab_races": [
     {
-      "track": "flemington",
+      "track": "hamilton",
       "start": 1,
-      "end": 10
+      "end": 8
     },
     {
       "track": "rosehill",
@@ -19,9 +19,9 @@
   
   "sb_races": [
     {
-      "track": "flemington",
+      "track": "hamilton",
       "start": 1,
-      "end": 10
+      "end": 8
     },
     {
       "track": "rosehill",
