@@ -1,7 +1,7 @@
 {
   "tab_races": [
     {
-      "track": "moonee valley,
+      "track": "moonee valley",
       "start": 1,
       "end": 3
     },
@@ -19,7 +19,7 @@
   
   "sb_races": [
     {
-      "track": "moonee valley,
+      "track": "moonee valley",
       "start": 1,
       "end": 4
     },
