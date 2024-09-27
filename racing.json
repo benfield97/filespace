@@ -1,9 +1,9 @@
 {
   "tab_races": [
     {
-      "track": "warwick farm",
+      "track": "moonee valley,
       "start": 1,
-      "end": 3
+      "end": 4
     },
     {
       "track": "doomben",
@@ -19,9 +19,9 @@
   
   "sb_races": [
     {
-      "track": "caulfield",
+      "track": "moonee valley,
       "start": 1,
-      "end": 7
+      "end": 4
     },
     {
       "track": "randwick",
