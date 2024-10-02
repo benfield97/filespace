@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "sandown",
+      "track": "cranbourne",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
       "track": "rosehill",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "toowoomba",
+      "track": "eagle farm",
       "start": 1,
-      "end": 6
+      "end": 3
     }
   ],
   
