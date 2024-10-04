@@ -19,12 +19,12 @@
   
   "sb_races": [
     {
-      "track": "sandown",
+      "track": "randwick",
       "start": 1,
       "end": 7
     },
     {
-      "track": "rosehill",
+      "track": "flemington",
       "start": 1,
       "end": 7
     }
