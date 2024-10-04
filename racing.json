@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "cranbourne",
+      "track": "flemington",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "rosehill",
+      "track": "randwick",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "eagle farm",
+      "track": "doomben",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ],
   
