@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "flemington",
+      "track": "randwick kensington",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "randwick",
+      "track": "sale",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
       "track": "doomben",
       "start": 1,
-      "end": 6
+      "end": 3
     }
   ],
   
