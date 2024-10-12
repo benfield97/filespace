@@ -1,30 +1,30 @@
 {
   "tab_races": [
     {
-      "track": "randwick kensington",
+      "track": "caulfield",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "sale",
+      "track": "rosehill",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "doomben",
+      "track": "eagle farm",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ],
   
   "sb_races": [
     {
-      "track": "randwick",
+      "track": "caulfield",
       "start": 1,
       "end": 7
     },
     {
-      "track": "flemington",
+      "track": "rosehill",
       "start": 1,
       "end": 7
     }
