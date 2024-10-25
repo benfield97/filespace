@@ -3,7 +3,12 @@
     {
       "track": "moonee valley",
       "start": 1,
-      "end": 4
+      "end": 8
+    },
+    {
+      "track": "randwick",
+      "start": 1,
+      "end": 8
     }
   ],
   
