@@ -1,19 +1,9 @@
 {
   "tab_races": [
     {
-      "track": "geelong",
+      "track": "moonee valley",
       "start": 1,
-      "end": 3
-    },
-    {
-      "track": "warwick farm",
-      "start": 1,
-      "end": 3
-    },
-    {
-      "track": "eagle farm",
-      "start": 1,
-      "end": 3
+      "end": 4
     }
   ],
   
