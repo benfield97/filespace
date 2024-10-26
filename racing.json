@@ -14,14 +14,14 @@
   
   "sb_races": [
     {
-      "track": "caulfield",
+      "track": "moonee valley",
       "start": 1,
-      "end": 6
+      "end": 8
     },
     {
       "track": "randwick",
       "start": 1,
-      "end": 6
+      "end": 8
     }
   ]
 }
