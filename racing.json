@@ -1,25 +1,10 @@
 {
   "tab_races": [
     {
-      "track": "bendigo",
+      "track": "moonee valley",
       "start": 1,
-      "end": 3
-    },
-    {
-      "track": "randwick",
-      "start": 1,
-      "end": 3
-    },
-    {
-      "track": "randwick kensington",
-      "start": 1,
-      "end": 3
-    },
-    {
-      "track": "doomben",
-      "start": 1,
-      "end": 3
-    } 
+      "end": 4
+    }
     ],
   
   "sb_races": [
