@@ -1,11 +1,15 @@
 {
   "tab_races": [
     {
-      "track": "moonee valley",
+      "track": "flemington",
       "start": 1,
-      "end": 4
-    }
-    ],
+      "end": 8
+    },
+    {
+      "track": "rosehill",
+      "start": 1,
+      "end": 8
+    }    ],
   
   "sb_races": [
     {
