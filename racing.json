@@ -3,23 +3,25 @@
     {
       "track": "flemington",
       "start": 1,
-      "end": 8
+      "end": 3
     },
     {
-      "track": "rosehill",
+      "track": "randwick",
       "start": 1,
-      "end": 8
-    }    ],
+      "end": 3
+    }
+  ],
   
   "sb_races": [
     {
       "track": "flemington",
       "start": 1,
-      "end": 7
+      "end": 3
     },
     {
-      "track": "rosehill",
+      "track": "randwick",
       "start": 1,
-      "end": 7
-    }    ]
+      "end": 3
+    }    
+  ]
 }
