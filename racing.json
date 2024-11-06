@@ -2,13 +2,13 @@
   "tab_races": [
     {
       "track": "flemington",
-      "start": 7,
-      "end": 7
+      "start": 1,
+      "end": 6
     },
     {
-      "track": "randwick",
+      "track": "hawksbury",
       "start": 1,
-      "end": 3
+      "end": 6
     }
   ],
   
