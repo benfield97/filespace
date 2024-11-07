@@ -3,7 +3,12 @@
     {
       "track": "flemington",
       "start": 1,
-      "end": 4
+      "end": 6
+    },
+    {
+      "track": "hawkesbury",
+      "start": 1,
+      "end": 6
     }
   ],
   
