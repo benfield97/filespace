@@ -3,12 +3,7 @@
     {
       "track": "flemington",
       "start": 1,
-      "end": 6
-    },
-    {
-      "track": "hawksbury",
-      "start": 1,
-      "end": 6
+      "end": 4
     }
   ],
   
@@ -16,12 +11,7 @@
     {
       "track": "flemington",
       "start": 1,
-      "end": 3
-    },
-    {
-      "track": "randwick",
-      "start": 1,
-      "end": 3
-    }    
+      "end": 4
+    }
   ]
 }
