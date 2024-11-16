@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "bendigo",
+      "track": "caulfield",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "rosehill",
+      "track": "newcastle",
       "start": 1,
-      "end": 3
+      "end": 6
     },
     {
-      "track": "doomben",
+      "track": "sunshine coast",
       "start": 1,
-      "end": 3
+      "end": 6
     } 
     ],
   
