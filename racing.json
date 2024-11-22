@@ -1,27 +1,27 @@
 {
   "tab_races": [
     {
-      "track": "caulfield",
+      "track": "kembla grange",
       "start": 1,
       "end": 6
     },
     {
-      "track": "newcastle",
+      "track": "cranbourne",
       "start": 1,
       "end": 6
-    },
-    {
-      "track": "sunshine coast",
-      "start": 1,
-      "end": 6
-    } 
+    }
     ],
   
   "sb_races": [
     {
-      "track": "flemington",
+      "track": "kembla grange",
       "start": 1,
-      "end": 4
+      "end": 7
+    },
+    {
+      "track": "cranbourne",
+      "start": 1,
+      "end": 7
     }
-  ]
+    ]
 }
