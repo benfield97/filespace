@@ -19,12 +19,12 @@
   
   "sb_races": [
     {
-      "track": "kembla grange",
+      "track": "caulfield",
       "start": 1,
       "end": 7
     },
     {
-      "track": "cranbourne",
+      "track": "rosehill",
       "start": 1,
       "end": 7
     }
