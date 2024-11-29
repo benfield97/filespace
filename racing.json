@@ -1,15 +1,20 @@
 {
   "tab_races": [
     {
-      "track": "kembla grange",
+      "track": "caulfield",
       "start": 1,
-      "end": 6
+      "end": 4
     },
     {
-      "track": "cranbourne",
+      "track": "rosehill",
       "start": 1,
-      "end": 6
-    }
+      "end": 4
+    },
+    {
+      "track": "doomben",
+      "start": 1,
+      "end": 4
+    }   
     ],
   
   "sb_races": [
