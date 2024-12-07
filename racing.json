@@ -1,7 +1,7 @@
 {
   "tab_races": [
     {
-      "track": "caulfield",
+      "track": "ballarat",
       "start": 1,
       "end": 4
     },
@@ -11,7 +11,7 @@
       "end": 4
     },
     {
-      "track": "doomben",
+      "track": "eagle farm",
       "start": 1,
       "end": 4
     }   
@@ -19,7 +19,7 @@
   
   "sb_races": [
     {
-      "track": "caulfield",
+      "track": "ballarat",
       "start": 1,
       "end": 7
     },
