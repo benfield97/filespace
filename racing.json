@@ -1,19 +1,19 @@
 {
   "tab_races": [
     {
-      "track": "randwick",
+      "track": "warwick farm",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "caulfield heath",
+      "track": "caulfield",
       "start": 1,
-      "end": 6
+      "end": 3
     },
     {
-      "track": "eagle farm",
+      "track": "doomben",
       "start": 1,
-      "end": 6
+      "end": 3
     }   
     ],
   
