@@ -1,32 +1,27 @@
 {
   "tab_races": [
     {
-      "track": "pakenham",
+      "track": "caulfield heath",
       "start": 1,
-      "end": 6
+      "end": 4
     },
     {
       "track": "randwick",
       "start": 1,
-      "end": 6
-    },
-    {
-      "track": "eagle farm",
-      "start": 1,
-      "end": 6
-    }   
+      "end": 4
+    }  
     ],
   
   "sb_races": [
     {
-      "track": "pakenham",
-      "start": 1,
-      "end": 7
-    },
-    {
       "track": "randwick",
       "start": 1,
-      "end": 7
+      "end": 4
+    },
+    {
+      "track": "caulfield heath",
+      "start": 1,
+      "end": 4
     }
     ]
 }
