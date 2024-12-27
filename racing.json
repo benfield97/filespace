@@ -1,12 +1,12 @@
 {
   "tab_races": [
     {
-      "track": "moonee valley",
+      "track": "randwick",
       "start": 1,
       "end": 6
     },
     {
-      "track": "randwick",
+      "track": "moonee valley",
       "start": 1,
       "end": 6  
     },
