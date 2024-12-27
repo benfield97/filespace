@@ -1,17 +1,20 @@
 {
   "tab_races": [
     {
-      "track": "caulfield heath",
+      "track": "moonee valley",
       "start": 1,
-      "end": 4
+      "end": 6
     },
     {
       "track": "randwick",
       "start": 1,
-      "end": 4
-    }  
-    ],
-  
+      "end": 6  
+    },
+    {
+      "track": "eagle farm",
+      "start": 1,
+      "end": 6
+      ],
   "sb_races": [
     {
       "track": "randwick",
