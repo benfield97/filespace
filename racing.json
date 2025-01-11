@@ -1,29 +1,29 @@
 {
   "tab_races": [
     {
-      "track": "randwick",
+      "track": "flemington",
       "start": 1,
       "end": 6
     },
     {
-      "track": "moonee valley",
+      "track": "gold coast",
       "start": 1,
       "end": 6  
     },
     {
-      "track": "eagle farm",
+      "track": "wyong",
       "start": 1,
       "end": 6
     }
     ],
   "sb_races": [
     {
-      "track": "moonee valley",
+      "track": "flemington",
       "start": 1,
       "end": 7
     },
     {
-      "track": "randwick",
+      "track": "wyong",
       "start": 1,
       "end": 7
     }
