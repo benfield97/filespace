@@ -1,7 +1,7 @@
 {
   "tab_races": [
     {
-      "track": "flemington",
+      "track": "sandown",
       "start": 1,
       "end": 6
     },
@@ -11,14 +11,14 @@
       "end": 6  
     },
     {
-      "track": "eagle farm",
+      "track": "doomben",
       "start": 1,
       "end": 6
     }
     ],
   "sb_races": [
     {
-      "track": "flemington",
+      "track": "sandown",
       "start": 1,
       "end": 7
     },
