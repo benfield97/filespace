@@ -1,12 +1,12 @@
 {
   "tab_races": [
     {
-      "track": "sandown",
+      "track": "caulfield",
       "start": 1,
       "end": 6
     },
     {
-      "track": "rosehill",
+      "track": "randwick",
       "start": 1,
       "end": 6  
     },
@@ -18,12 +18,12 @@
     ],
   "sb_races": [
     {
-      "track": "sandown",
+      "track": "caulfield",
       "start": 1,
       "end": 7
     },
     {
-      "track": "rosehill",
+      "track": "randwick",
       "start": 1,
       "end": 7
     }
