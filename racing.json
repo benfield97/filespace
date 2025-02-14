@@ -1,7 +1,7 @@
 {
   "tab_races": [
     {
-      "track": "caulfield",
+      "track": "flemington",
       "start": 1,
       "end": 6
     },
@@ -11,14 +11,14 @@
       "end": 6  
     },
     {
-      "track": "doomben",
+      "track": "eagle farm",
       "start": 1,
       "end": 6
     }
     ],
   "sb_races": [
     {
-      "track": "caulfield",
+      "track": "flemington",
       "start": 1,
       "end": 7
     },
