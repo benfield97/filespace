@@ -1,17 +1,17 @@
 {
   "tab_races": [
     {
-      "track": "rosehill",
+      "track": "flemington",
       "start": 1,
       "end": 7
     },
     {
-      "track": "doomben",
+      "track": "randwick",
       "start": 1,
       "end": 7
     },
     {
-      "track": "caulfield",
+      "track": "eagle farm",
       "start": 1,
       "end": 7
     }
